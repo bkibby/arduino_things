@@ -1,4 +1,4 @@
 arduino_things
 ==============
 
-Miscellaneous Arduino sketches I've found handy 
+Miscellaneous Arduino sketches I've found handy over the years.
